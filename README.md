@@ -1,3 +1,3 @@
 # wwdc
 
-Add project details here. 
+Add project details here.
