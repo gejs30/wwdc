@@ -8,6 +8,7 @@ while True:
     time.sleep(0.5)
 
 #Sunday 11 November 2023
+#Absolute Value Blink Neopixel 0
 import time
 
 from adafruit_circuitplayground.express import cpx
