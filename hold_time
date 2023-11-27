@@ -1,3 +1,5 @@
+# alter hold time for faster changes between modes 
+
 cpx.detect_taps = 2
 accel_threshold = 2
 cpx.pixels.brightness = 0.2
