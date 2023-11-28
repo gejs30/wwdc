@@ -1,7 +1,7 @@
 import time
 from rainbowio import colorwheel
 from adafruit_circuitplayground.express import cpx
-
+from adafruit_circuitplayground import cp
 
 # pylint: disable=redefined-outer-name
 def upright(x, y, z):
@@ -23,7 +23,6 @@ def left_side(x, y, z):
 
 
 # pylint: enable=redefined-outer-name
-
 
 def cycle_sequence(seq):
     while True:
