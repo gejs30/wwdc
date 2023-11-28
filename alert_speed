@@ -1,0 +1,4 @@
+    if now >= alert_speed: 
+        cp.play_tone(262, 1)
+        cp.play_tone(294, 2)
+        cp.stop_tone(0, 0)
