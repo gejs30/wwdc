@@ -1,5 +1,4 @@
-# Working with Data and Code
-Ikea Hacked Medication Reminder LED Lamp
+# Ikea Hacked Medication Reminder LED Lamp
 
 Using the Circuit Playground Express module (CPE) and a ‘hacked’ Ikea lamp, this prototype would light up at specific times to remind the user to take their medications on a twice daily basis. At each alert time, the CPE would play a reminder audio clip along with a shift in its regular light pattern. 
 
