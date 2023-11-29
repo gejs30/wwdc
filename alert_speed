@@ -1,4 +1,8 @@
-    if now >= alert_speed: 
+# rather than continuing to attempt to add an audio file to the code sequence, I converted the Circuit Playground Express to play a tone sequence. 
+This code works when added to the end of the "final" file string. However, I could not get the whole set of code to repeat after this action had ended.
+While this segment is an example of what I want to implement, I could not figure out how to get this function to repeat after a set amount of time has passed, while letting the previous rainbow sequence continue in the background.
+
+if now >= alert_speed: 
         cp.play_tone(262, 1)
         cp.play_tone(294, 2)
         cp.stop_tone(0, 0)
